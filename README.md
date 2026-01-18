@@ -51,9 +51,7 @@ An analog automatic battery charger designed for 6V 4.5Ah sealed lead-acid batte
 6. **LED Indicator:** Red = Charging, Off = Fully Charged
 
 ## 📁 Documentation
-- [📄 Complete Project Report](Documentation/Project-Report.pdf)
-- [📄 Component List with Prices](Documentation/Component-List.pdf)
-- [📄 Design Calculations](Documentation/Calculations.pdf)
+- [📄 Complete Project Report](HRAISE_PROJECT_REPORT.docx)
 
 ## 🎯 Applications
 - UPS battery charging
