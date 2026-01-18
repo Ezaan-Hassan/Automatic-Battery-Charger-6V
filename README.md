@@ -62,8 +62,15 @@ An analog automatic battery charger designed for 6V 4.5Ah sealed lead-acid batte
 
 ## 📸 Project Photos
 
-### Assembled Circuit
-![Assembled Circuit](Photos/assembled-circuit.jpg)
+### Complete Circuit
+![Complete Circuit](project-photos/complete-circuit.jpeg)
+
+### Power Supply
+![Power Supply](project-photos/power-supply.jpeg)
+
+### Cut-Off Circuit
+![Cut-Off Circuit](project-photos/cut-off-circuit.jpeg)
+
 
 ## 📞 Contact
 For questions or collaboration:
